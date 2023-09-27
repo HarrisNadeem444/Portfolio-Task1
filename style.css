@@ -143,7 +143,7 @@ a {
 .social:hover {
   padding-top: 15px;
   transition-duration: 0.3s;
-  border-bottom: 5px solid brown;
+  border-bottom: 3px solid brown;
   justify-content: center;
 }
 
